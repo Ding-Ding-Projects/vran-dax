@@ -1,0 +1,10 @@
+{
+  "projects": [
+    {
+      "id": "p4407e27f89fac66034bfd4025ad92944",
+      "runner": "ubuntu-24.04",
+      "rev": "e3d6df2c565dfeff563b2f0f3cbe9c19",
+      "feeds_required": false
+    }
+  ]
+}
